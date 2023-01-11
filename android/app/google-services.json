@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418071243081",
+    "project_id": "multiplesumup",
+    "storage_bucket": "multiplesumup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418071243081:android:f84ed4e5592d91d73a9298",
+        "android_client_info": {
+          "package_name": "app.id.multiplesumup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418071243081-9g3fs6d30844s5uvk3lrhrdj05onclt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRJhqOOvlBOawWV-xWJDlZkl1Id69MEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418071243081-9g3fs6d30844s5uvk3lrhrdj05onclt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
